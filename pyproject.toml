@@ -1,5 +1,5 @@
 [project]
-name = "TODO"
+name = "khaxis"
 version = "0.1.0"
 license = { file = "LICENSE" }
 requires-python = ">=3.12"
@@ -27,7 +27,7 @@ docs = [
 # allow-direct-references = true
 
 # [tool.hatch.build.targets.wheel]
-# packages = ["src/TODO"]
+# packages = ["src/khaxis"]
 
 [tool.ruff]
 [tool.ruff.lint.per-file-ignores]
